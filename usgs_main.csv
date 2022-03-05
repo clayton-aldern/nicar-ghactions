@@ -389,3 +389,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T09:55:49.690Z,36.1136665,-117.8658371,2.32,1.67,ml,18.0,76.0,0.009708,0.1,ci,ci40200032,2022-03-05T09:57:54.812Z,"11km NE of Coso Junction, CA",earthquake,0.38,0.24,0.189,4.0,automatic,ci,ci
 2022-03-05T10:04:19.320Z,34.0284996,-117.1578369,10.39,1.49,ml,46.0,103.0,0.03836,0.15,ci,ci40200040,2022-03-05T10:06:31.862Z,"4km SE of Redlands, CA",earthquake,0.24,0.51,0.217,13.0,automatic,ci,ci
 2022-03-05T10:00:21.779Z,63.3513,-150.6247,1.9,2.1,ml,,,,0.77,ak,ak0222y0clc0,2022-03-05T10:05:11.569Z,"58 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-05T10:08:22.730Z,34.0283333,-117.1503333,9.87,0.99,ml,14.0,112.0,0.03229,0.16,ci,ci40200056,2022-03-05T10:11:54.417Z,"4km SE of Redlands, CA",earthquake,0.45,1.15,0.355,21.0,automatic,ci,ci
+2022-03-05T10:04:12.110Z,33.2405,-116.7593333,4.58,0.71,ml,15.0,66.0,0.004533,0.17,ci,ci40200048,2022-03-05T10:08:07.693Z,"0km ESE of Lake Henshaw, CA",earthquake,0.3,0.33,0.173,12.0,automatic,ci,ci
