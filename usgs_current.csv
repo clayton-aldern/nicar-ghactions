@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-03-06T09:59:20.190Z,38.8255005,-122.7641678,1.91,0.67,md,11,127,0.006691,0.02,nc,nc73702021,2022-03-06T10:07:10.697Z,"4km W of Cobb, CA",earthquake,0.35,0.56,0.14,2,automatic,nc,nc
 2022-03-06T09:44:58.390Z,38.8138351,-122.7961655,2.14,0.84,md,17,44,0.005897,0.04,nc,nc73702011,2022-03-06T09:52:10.589Z,"5km NW of The Geysers, CA",earthquake,0.28,0.66,,1,automatic,nc,nc
-2022-03-06T09:35:07.155Z,-28.5653,-68.8277,118.26,5.5,mww,,41,1.575,0.98,us,us6000h2il,2022-03-06T10:07:01.759Z,"64 km WNW of Vinchina, Argentina",earthquake,6,4.1,0.054,33,reviewed,us,us
+2022-03-06T09:35:07.155Z,-28.5653,-68.8277,118.26,5.5,mww,,41,1.575,0.98,us,us6000h2il,2022-03-06T10:18:07.478Z,"64 km WNW of Vinchina, Argentina",earthquake,6,4.1,0.054,33,reviewed,us,us
 2022-03-06T09:17:58.565Z,64.6209,-149.7257,13.7,1.4,ml,,,,1.3,ak,ak0222zne88h,2022-03-06T09:22:28.625Z,"29 km W of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-06T08:59:53.592Z,38.1509,-117.9361,16,0.9,ml,9,151.02,0.062,0.2151,nn,nn00834956,2022-03-06T09:03:55.044Z,"30 km SSE of Mina, Nevada",earthquake,,0.5,0.31,5,automatic,nn,nn
 2022-03-06T08:59:49.445Z,-0.1512,29.8224,10,4.6,mb,,80,1.019,0.29,us,us6000h2ih,2022-03-06T10:05:53.451Z,"Lake Edward region, Uganda",earthquake,7.3,1.9,0.128,19,reviewed,us,us
@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T06:52:17.820Z,38.8343333,-122.804,2.48,0,md,13,54,0.01142,0.01,nc,nc73701951,2022-03-06T07:53:10.835Z,"7km W of Cobb, CA",earthquake,0.29,0.47,0.166,3,reviewed,nc,nc
 2022-03-06T06:51:59.110Z,19.5555000305176,-155.952499389648,13.3699998855591,2.08,ml,30,183,,0.230000004,hv,hv72939752,2022-03-06T07:08:31.993Z,"2 km SSE of Kahaluu-Keauhou, Hawaii",earthquake,0.8,0.5,4.38,4,automatic,hv,hv
 2022-03-06T06:48:26.680Z,38.8346672,-122.8050003,1.97,0.85,md,14,54,0.01193,0.01,nc,nc73701946,2022-03-06T08:22:11.019Z,"7km W of Cobb, CA",earthquake,0.32,0.5,,1,automatic,nc,nc
-2022-03-06T06:47:44.540Z,38.8328333,-122.804,2.08,1.68,md,51,31,0.01055,0.04,nc,nc73701941,2022-03-06T09:38:10.497Z,"7km W of Cobb, CA",earthquake,0.12,0.22,0.189,20,reviewed,nc,nc
+2022-03-06T06:47:44.540Z,38.8328333,-122.804,2.08,1.68,md,51,31,0.01055,0.04,nc,nc73701941,2022-03-06T10:12:16.729Z,"7km W of Cobb, CA",earthquake,0.12,0.22,0.189,20,reviewed,nc,nc
 2022-03-06T06:30:07.110Z,19.2369995117188,-155.414337158203,35.6500015258789,1.89999998,md,44,131,,0.159999996,hv,hv72939717,2022-03-06T06:33:19.150Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.58,0.779999971,0.870000005,13,automatic,hv,hv
 2022-03-06T05:55:13.570Z,34.024,-117.1565,10.63,1.61,ml,47,35,0.07761,0.2,ci,ci40200512,2022-03-06T06:06:05.470Z,"4km SE of Redlands, CA",earthquake,0.22,0.58,0.126,25,automatic,ci,ci
 2022-03-06T05:50:06.030Z,19.1791667938232,-155.504669189453,36.0299987792969,2.33999991,md,46,86,,0.129999995,hv,hv72939697,2022-03-06T05:53:23.980Z,"3 km SW of Pāhala, Hawaii",earthquake,0.49,0.800000012,1.07000005,20,automatic,hv,hv
@@ -193,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T10:49:12.870Z,34.0296667,-117.154,9.3,1.39,ml,38,103,0.08355,0.18,ci,ci40200064,2022-03-05T10:52:53.662Z,"4km SE of Redlands, CA",earthquake,0.28,0.8,0.139,27,automatic,ci,ci
 2022-03-05T10:26:59.132Z,61.5656,-141.0164,0,2.2,ml,,,,0.65,ak,ak0222y0i8tu,2022-03-05T10:33:35.179Z,"102 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-05T10:21:13.620Z,19.19700050354,-155.480499267578,30.5,1.82000005,md,42,82,,0.140000001,hv,hv72938712,2022-03-05T10:24:17.210Z,"0 km SSW of Pāhala, Hawaii",earthquake,0.54,0.939999998,1.79999995,6,automatic,hv,hv
-2022-03-05T10:08:22.730Z,34.0283333,-117.1503333,9.87,0.99,ml,14,112,0.03229,0.16,ci,ci40200056,2022-03-05T10:11:54.417Z,"4km SE of Redlands, CA",earthquake,0.45,1.15,0.355,21,automatic,ci,ci
