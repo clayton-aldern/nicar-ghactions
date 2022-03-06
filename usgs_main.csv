@@ -524,3 +524,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T00:57:37.270Z,38.8396683,-122.8791656,2.31,0.34,md,6.0,152.0,0.008241,0.01,nc,nc73701871,2022-03-06T01:23:15.577Z,"12km ENE of Cloverdale, CA",earthquake,0.92,1.27,,1.0,automatic,nc,nc
 2022-03-06T00:11:30.260Z,38.8088333,-122.823,2.05,0.4,md,25.0,63.0,0.004827,0.02,nc,nc73701851,2022-03-06T01:09:12.365Z,"7km WNW of The Geysers, CA",earthquake,0.21,0.28,0.56,3.0,reviewed,nc,nc
 2022-03-05T20:26:26.270Z,37.626,-118.8876667,7.96,0.72,md,14.0,97.0,0.02083,0.08,nc,nc73701751,2022-03-06T01:14:12.397Z,"8km E of Mammoth Lakes, CA",earthquake,0.46,0.4,0.256,11.0,reviewed,nc,nc
+2022-03-06T01:40:56.540Z,38.8063316,-122.8161697,2.11,1.73,md,32.0,59.0,0.01047,0.05,nc,nc73701881,2022-03-06T01:48:10.584Z,"6km WNW of The Geysers, CA",earthquake,0.2,0.31,0.08,10.0,automatic,nc,nc
