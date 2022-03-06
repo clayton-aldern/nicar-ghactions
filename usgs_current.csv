@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-06T06:30:07.110Z,19.2369995117188,-155.414337158203,35.6500015258789,1.89999998,md,44,131,,0.159999996,hv,hv72939717,2022-03-06T06:33:19.150Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.58,0.779999971,0.870000005,13,automatic,hv,hv
 2022-03-06T05:55:13.570Z,34.024,-117.1565,10.63,1.61,ml,47,35,0.07761,0.2,ci,ci40200512,2022-03-06T06:06:05.470Z,"4km SE of Redlands, CA",earthquake,0.22,0.58,0.126,25,automatic,ci,ci
 2022-03-06T05:50:06.030Z,19.1791667938232,-155.504669189453,36.0299987792969,2.33999991,md,46,86,,0.129999995,hv,hv72939697,2022-03-06T05:53:23.980Z,"3 km SW of Pāhala, Hawaii",earthquake,0.49,0.800000012,1.07000005,20,automatic,hv,hv
 2022-03-06T05:45:00.190Z,33.713,-116.8253333,15.4,1.08,ml,39,44,0.08488,0.24,ci,ci40200504,2022-03-06T05:48:41.621Z,"7km ESE of Valle Vista, CA",earthquake,0.4,0.61,0.168,26,automatic,ci,ci
@@ -24,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T03:00:26.330Z,38.8230019,-122.855835,2.43,1.19,md,25,67,0.004608,0.04,nc,nc73701896,2022-03-06T04:24:13.563Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.42,0.09,5,automatic,nc,nc
 2022-03-06T02:52:16.720Z,17.9741666666667,-66.9476666666667,8.73,1.86,md,3,179,,0.04,pr,pr71339193,2022-03-06T03:24:12.920Z,"3 km WSW of Fuig, Puerto Rico",earthquake,2.71,1.12,0.27044359040807,3,reviewed,pr,pr
 2022-03-06T02:46:54.300Z,34.206,-117.4856667,12.29,1.95,ml,66,28,0.05008,0.22,ci,ci40200464,2022-03-06T02:58:10.894Z,"6km SSE of Lytle Creek, CA",earthquake,0.23,0.55,0.152,26,automatic,ci,ci
-2022-03-06T02:46:34.790Z,37.385,-119.2986667,18.84,1.63,md,14,116,0.09525,0.08,nc,nc73701891,2022-03-06T05:23:21.916Z,"26km NE of North Fork, CA",earthquake,0.48,0.93,0.261,19,reviewed,nc,nc
+2022-03-06T02:46:34.790Z,37.385,-119.2986667,18.84,1.63,md,14,116,0.09525,0.08,nc,nc73701891,2022-03-06T06:26:15.319Z,"26km NE of North Fork, CA",earthquake,0.48,0.93,0.261,19,reviewed,nc,nc
 2022-03-06T02:33:17.494Z,-22.5851,-176.3623,10,5,mb,,92,8.4,0.96,us,us6000h2gu,2022-03-06T02:51:26.040Z,"196 km SW of Vaini, Tonga",earthquake,5.2,1.9,0.043,176,reviewed,us,us
 2022-03-06T02:26:13.056Z,40.6814,-29.1677,10,4.7,mb,,72,4.061,0.9,us,us6000h2gv,2022-03-06T02:59:54.040Z,"203 km NNW of Santa Cruz da Graciosa, Portugal",earthquake,5.6,1.9,0.064,78,reviewed,us,us
 2022-03-06T02:25:52.840Z,-21.3949,-69.041,119.47,4,mb,,67,0.544,0.83,us,us6000h2gt,2022-03-06T03:05:47.040Z,"118 km N of Calama, Chile",earthquake,8.9,8.6,0.232,5,reviewed,us,us
