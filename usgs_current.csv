@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-07T08:55:53.270Z,19.2434997558594,-155.406494140625,31.3099994659424,2.52999997,md,48,131,,0.180000007,hv,hv72941187,2022-03-07T08:59:08.400Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.58,0.720000029,0.439999998,29,automatic,hv,hv
 2022-03-07T08:39:50.210Z,34.0018333,-119.6558333,15.95,1.92,ml,17,133,0.3522,0.24,ci,ci40201168,2022-03-07T08:43:23.330Z,"13km WSW of Santa Cruz Is. (E end), CA",earthquake,0.99,9.06,0.159,28,automatic,ci,ci
 2022-03-07T08:39:29.960Z,38.8330002,-122.8153305,1.91,0.89,md,22,54,0.01043,0.02,nc,nc73702396,2022-03-07T08:49:11.185Z,"8km NW of The Geysers, CA",earthquake,0.2,0.42,0.19,4,automatic,nc,nc
 2022-03-07T08:31:12.370Z,38.8176651,-122.8249969,2.48,0.36,md,13,68,0.009372,0.02,nc,nc73702391,2022-03-07T08:39:11.128Z,"7km NW of The Geysers, CA",earthquake,0.31,0.85,,1,automatic,nc,nc
@@ -200,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T09:26:45.450Z,46.197833333333335,-122.189,2.13,0.63,ml,15,88,0.002336,0.09,uw,uw61820406,2022-03-06T15:57:25.630Z,"37 km NNE of Amboy, Washington",earthquake,0.22,0.46,0.3469181958033076,10,reviewed,uw,uw
 2022-03-06T09:17:58.565Z,64.6209,-149.7257,13.7,1.4,ml,,,,1.3,ak,ak0222zne88h,2022-03-06T09:22:28.625Z,"29 km W of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-06T09:13:32.240Z,44.4325,-115.1823333,4.37,1.71,ml,7,82,0.877,0.26,mb,mb80539829,2022-03-06T15:24:37.880Z,"30 km NW of Stanley, Idaho",earthquake,0.97,2.12,0.189,6,reviewed,mb,mb
-2022-03-06T08:59:53.592Z,38.1509,-117.9361,16,0.9,ml,9,151.02,0.062,0.2151,nn,nn00834956,2022-03-06T09:03:55.044Z,"30 km SSE of Mina, Nevada",earthquake,,0.5,0.31,5,automatic,nn,nn
-2022-03-06T08:59:49.445Z,-0.1512,29.8224,10,4.6,mb,,80,1.019,0.29,us,us6000h2ih,2022-03-06T10:05:53.451Z,"44 km SSW of Kilembe, Uganda",earthquake,7.3,1.9,0.128,19,reviewed,us,us
