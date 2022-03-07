@@ -810,3 +810,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T09:37:11.185Z,62.7961,-151.8699,7.0,1.9,ml,,,,0.65,ak,ak02231b1re6,2022-03-07T09:40:15.867Z,"65 km WNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-07T09:46:54.026Z,61.7951,-149.6684,30.1,1.6,ml,,,,0.75,ak,ak02231b3s5d,2022-03-07T09:49:37.373Z,"19 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-07T09:59:23.195Z,59.69,-153.2096,104.8,1.6,ml,,,,0.44,ak,ak02231b6i2n,2022-03-07T10:01:58.925Z,"51 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-07T10:09:21.520Z,36.0776667,-117.635,5.22,1.12,ml,12.0,159.0,0.1178,0.11,ci,ci40201192,2022-03-07T10:12:58.343Z,"28km E of Coso Junction, CA",earthquake,0.32,1.36,0.192,13.0,automatic,ci,ci
+2022-03-07T09:46:53.220Z,18.3433333333333,-66.2023333333333,43.84,2.43,md,12.0,195.0,,0.22,pr,pr71339363,2022-03-07T10:13:18.270Z,"3 km SSE of Pájaros, Puerto Rico",earthquake,0.94,0.88,0.205260625987478,8.0,reviewed,pr,pr
