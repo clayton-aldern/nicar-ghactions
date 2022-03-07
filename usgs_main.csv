@@ -722,3 +722,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T00:11:05.063Z,65.3405,-148.0416,5.7,1.2,ml,,,,0.77,ak,ak022315j9u0,2022-03-07T00:17:30.943Z,"31 km SE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-06T23:56:18.033Z,51.2856,100.2288,10.0,4.4,mb,,42.0,2.171,0.65,us,us6000h2md,2022-03-07T00:14:15.040Z,"38 km SW of Turt, Mongolia",earthquake,6.9,1.4,0.08,45.0,reviewed,us,us
 2022-03-06T22:53:26.470Z,38.7958333,-122.7623333,1.25,0.56,md,12.0,116.0,0.005205,0.02,nc,nc73702231,2022-03-07T00:17:23.088Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.34,0.191,3.0,reviewed,nc,nc
+2022-03-07T00:33:47.401Z,63.1879,-150.3283,105.6,1.7,ml,,,,0.98,ak,ak022315o2vo,2022-03-07T00:36:33.488Z,"72 km WSW of Cantwell, Alaska",earthquake,,1.0,,,automatic,ak,ak
+2022-03-07T00:17:39.690Z,34.0001667,-117.204,13.76,1.24,ml,45.0,68.0,0.0587,0.22,ci,ci40201032,2022-03-07T00:27:59.380Z,"6km SSW of Redlands, CA",earthquake,0.29,0.63,0.139,27.0,automatic,ci,ci
