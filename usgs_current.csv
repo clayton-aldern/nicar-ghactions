@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-07T10:15:02.070Z,19.2348327636719,-155.404830932617,32.1599998474121,1.83000004,md,46,137,,0.119999997,hv,hv72941252,2022-03-07T10:18:20.250Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.54,0.74000001,0.800000012,11,automatic,hv,hv
 2022-03-07T10:09:21.520Z,36.0776667,-117.635,5.22,1.12,ml,12,159,0.1178,0.11,ci,ci40201192,2022-03-07T10:12:58.343Z,"28km E of Coso Junction, CA",earthquake,0.32,1.36,0.192,13,automatic,ci,ci
 2022-03-07T09:59:23.580Z,59.7134,-153.1789,101.9,2.1,ml,,,,0.58,ak,ak02231b6i2n,2022-03-07T10:07:29.963Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-03-07T09:46:54.026Z,61.7951,-149.6684,30.1,1.6,ml,,,,0.75,ak,ak02231b3s5d,2022-03-07T09:51:17.682Z,"19 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
