@@ -1216,3 +1216,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T19:09:04.950Z,38.7981682,-122.7498322,1.65,1.23,md,23.0,133.0,0.0081,0.05,nc,nc73702951,2022-03-08T19:10:38.025Z,"2km NNE of The Geysers, CA",earthquake,0.3,0.39,0.07,6.0,automatic,nc,nc
 2022-03-08T19:04:58.650Z,19.2141666412354,-155.422836303711,32.3800010681152,2.00999999,md,43.0,138.0,,0.109999999,hv,hv72943347,2022-03-08T19:10:30.120Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.56,0.800000012,1.62,14.0,automatic,hv,hv
 2022-03-08T18:44:43.576Z,52.2232,-170.0498,27.4,3.4,ml,,,,0.62,ak,ak022333zpje,2022-03-08T19:11:52.305Z,"113 km SW of Nikolski, Alaska",earthquake,,2.1,,,reviewed,ak,ak
+2022-03-08T19:19:48.610Z,33.6311667,-118.704,0.91,2.1,ml,8.0,189.0,0.3325,0.12,ci,ci40202408,2022-03-08T19:23:56.266Z,"32km WSW of Rancho Palos Verdes, CA",earthquake,0.69,31.61,0.241,22.0,automatic,ci,ci
+2022-03-08T07:54:58.560Z,48.7775,-121.83133333333332,29.39,0.73,md,6.0,230.0,0.04684,0.09,uw,uw61820746,2022-03-08T19:21:14.270Z,"15 km SE of Glacier, Washington",earthquake,0.79,1.02,0.1808609409956396,7.0,reviewed,uw,uw
