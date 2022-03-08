@@ -975,3 +975,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T23:37:04.519Z,70.6625,-13.8863,10.0,4.4,mb,,52.0,2.702,0.77,us,us6000h2x3,2022-03-07T23:58:54.040Z,"191 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,4.0,1.9,0.118,21.0,reviewed,us,us
 2022-03-07T09:01:24.930Z,19.144,-155.486,32.8,1.53,md,30.0,247.0,,0.1,hv,hv72941192,2022-03-08T00:04:34.610Z,"6 km S of Pāhala, Hawaii",earthquake,0.69,0.97,0.0596366405519528,15.0,reviewed,hv,hv
 2022-03-07T21:26:56.770Z,38.824,-122.8038333,2.49,0.43,md,23.0,40.0,0.004912,0.02,nc,nc73702571,2022-03-08T00:30:10.964Z,"7km NW of The Geysers, CA",earthquake,0.25,0.46,0.065,4.0,reviewed,nc,nc
+2022-03-08T00:51:53.426Z,63.4586,-147.6938,0.0,1.8,ml,,,,1.09,ak,ak02232tbaq6,2022-03-08T00:54:35.109Z,"63 km E of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-08T00:36:32.770Z,37.4811668,-118.8213348,3.53,1.54,md,14.0,198.0,0.1088,0.02,nc,nc73702621,2022-03-08T01:00:15.171Z,"15km SW of Toms Place, CA",earthquake,0.71,1.75,0.13,13.0,automatic,nc,nc
+2022-03-08T00:24:21.266Z,-21.8783,-178.6557,561.39,4.5,mb,,133.0,5.148,0.89,us,us6000h2xh,2022-03-08T00:39:38.040Z,Fiji region,earthquake,8.3,10.2,0.139,15.0,reviewed,us,us
+2022-03-07T13:12:45.080Z,60.0278333333333,-153.0945,0.52,-0.47,ml,4.0,178.0,,0.11,av,av91051263,2022-03-08T00:59:31.120Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.41,1.56,0.133086991105411,4.0,reviewed,av,av
+2022-03-07T02:11:12.700Z,19.2298333333333,-155.426166666667,32.53,1.69,md,33.0,127.0,,0.12,hv,hv72940812,2022-03-08T00:58:56.580Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.71,0.93,0.113917549087675,15.0,reviewed,hv,hv
