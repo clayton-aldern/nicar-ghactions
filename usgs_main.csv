@@ -1042,3 +1042,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T06:11:59.160Z,19.2193336486816,-155.373001098633,32.5499992370605,2.68,ml,50.0,157.0,,0.129999995,hv,hv72942407,2022-03-08T06:18:09.127Z,"11 km E of Pāhala, Hawaii",earthquake,0.55,0.600000024,3.71,35.0,automatic,hv,hv
 2022-03-08T06:07:53.770Z,34.029,-117.153,8.45,0.89,ml,26.0,103.0,0.03432,0.19,ci,ci40201984,2022-03-08T06:11:32.104Z,"4km SE of Redlands, CA",earthquake,0.31,0.96,0.18,28.0,automatic,ci,ci
 2022-03-07T16:07:58.630Z,51.9993333333333,-176.646166666667,0.16,0.94,ml,8.0,185.0,,0.12,av,av91051318,2022-03-08T06:14:56.550Z,"13 km N of Adak, Alaska",earthquake,0.75,1.04,0.27246109673779,8.0,reviewed,av,av
+2022-03-08T06:20:06.032Z,64.5021,-147.8595,15.5,1.1,ml,,,,0.37,ak,ak02232wp5i3,2022-03-08T06:24:43.382Z,"34 km S of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
