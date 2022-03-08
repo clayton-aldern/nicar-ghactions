@@ -1033,3 +1033,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T05:49:08.390Z,32.9413338,-116.2600021,9.98,1.13,ml,39.0,83.0,0.202,0.22,ci,ci40201960,2022-03-08T05:51:23.885Z,"25km SSW of Ocotillo Wells, CA",earthquake,0.33,1.36,0.147,3.0,automatic,ci,ci
 2022-03-08T05:48:53.320Z,32.8398323,-115.6035004,11.65,1.4,ml,10.0,105.0,0.07124,0.2,ci,ci40201968,2022-03-08T05:50:59.501Z,"3km WSW of Imperial, CA",earthquake,0.88,1.25,0.146,5.0,automatic,ci,ci
 2022-03-07T12:09:16.090Z,51.8655,-177.813166666667,7.8,0.01,ml,4.0,254.0,,0.04,av,av91051303,2022-03-08T05:49:49.010Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.64,0.73,0.30086153807271,4.0,reviewed,av,av
+2022-03-08T05:51:12.148Z,38.5421,-119.5102,4.1,1.4,ml,17.0,168.61,0.044,0.1576,nn,nn00835055,2022-03-08T05:54:15.393Z,"2 km S of Coleville, California",earthquake,,0.8,0.14,9.0,automatic,nn,nn
