@@ -974,3 +974,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-07T23:57:41.657Z,60.6894,-148.2951,19.8,1.7,ml,,,,0.64,ak,ak02231ji6j9,2022-03-08T00:01:18.725Z,"23 km ESE of Whittier, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-07T23:37:04.519Z,70.6625,-13.8863,10.0,4.4,mb,,52.0,2.702,0.77,us,us6000h2x3,2022-03-07T23:58:54.040Z,"191 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,4.0,1.9,0.118,21.0,reviewed,us,us
 2022-03-07T09:01:24.930Z,19.144,-155.486,32.8,1.53,md,30.0,247.0,,0.1,hv,hv72941192,2022-03-08T00:04:34.610Z,"6 km S of Pāhala, Hawaii",earthquake,0.69,0.97,0.0596366405519528,15.0,reviewed,hv,hv
+2022-03-07T21:26:56.770Z,38.824,-122.8038333,2.49,0.43,md,23.0,40.0,0.004912,0.02,nc,nc73702571,2022-03-08T00:30:10.964Z,"7km NW of The Geysers, CA",earthquake,0.25,0.46,0.065,4.0,reviewed,nc,nc
