@@ -1205,3 +1205,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-08T18:19:44.900Z,61.8198,-148.9189,39.1,1.4,ml,,,,0.58,ak,ak022333u81m,2022-03-08T18:21:42.816Z,"9 km WNW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-08T10:01:20.728Z,60.6891,-150.7022,45.1,1.2,ml,,,,0.3,ak,ak02232yyphd,2022-03-08T18:19:59.831Z,"17 km NNE of Sterling, Alaska",earthquake,,1.8,,,reviewed,ak,ak
 2022-03-08T09:19:32.437Z,61.9062,-150.723,15.0,0.8,ml,,,,0.4,ak,ak02232yha7e,2022-03-08T18:16:33.425Z,"36 km ESE of Skwentna, Alaska",earthquake,,1.2,,,reviewed,ak,ak
+2022-03-08T13:38:16.915Z,63.0923,-151.4935,11.3,0.9,ml,,,,0.93,ak,ak022330z2h8,2022-03-08T18:33:21.777Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,reviewed,ak,ak
